@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "nodeapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srdjan01/liri-node-app.git"
+  },
+  "author": "Srdjan Markovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srdjan01/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/srdjan01/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
