@@ -1,0 +1,483 @@
+
+
+[{"created at: ":"Sun Jan 14 01:08:25 +0000 2018","Tweets: ":"Just setting up my Twitter. #myfirstTweet"}]
+
+[]
+
+[]
+
+[]
+
+[{"created at: ":"Sun Jan 14 01:08:25 +0000 2018","Tweets: ":"Just setting up my Twitter. #myfirstTweet"}]User Command: node liri.js spotify-this-song lucky 
+
+User Command: node liri.js spotify-this-song believe 
+
+User Command: node liri.js spotify-this-song believe 
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+Created on: Wed Jan 10 01:32:25 +0000 2018
+Tweet content: Teaching SQL injection today... couldn't resist :).
+
+https://t.co/vRyMKVZM7K
+------------------------
+Created on: Tue Jan 09 02:44:16 +0000 2018
+Tweet content: Read it, peeps...
+
+https://t.co/jzYGgCqa8h
+------------------------
+Created on: Tue Jan 02 07:32:48 +0000 2018
+Tweet content: #LifeatBlueCrossNC https://t.co/n2Po11awT9
+------------------------
+Created on: Mon Jan 01 01:02:09 +0000 2018
+Tweet content: RT @UNC: #UNC.edu top stories of 2017 | Carolina alumna Zena Cardman has ventured to some of Earth’s most unique and remote places. Now she…
+------------------------
+Created on: Fri Dec 01 13:55:06 +0000 2017
+Tweet content: Looking forward to checking this out! AWS Cloud9: https://t.co/cyqmy6olKC via @awscloud
+------------------------
+Created on: Fri Nov 24 03:16:20 +0000 2017
+Tweet content: @AR22recruiter Mashed potatoes 😊😊😊
+------------------------
+Created on: Thu Nov 16 07:09:10 +0000 2017
+Tweet content: This guy gives hilarious advice on how to deal with e-mail spammers! Watch for seriously good laugh :-).
+
+https://t.co/dFWBnoqG9H
+------------------------
+Created on: Tue Nov 14 03:03:16 +0000 2017
+Tweet content: @GinnyGhezzo Nice 🤓
+------------------------
+Created on: Tue Nov 14 01:28:03 +0000 2017
+Tweet content: @BrianLangAuthor @GinnyGhezzo You know it!!
+------------------------
+Created on: Tue Nov 14 01:19:39 +0000 2017
+Tweet content: RT @GinnyGhezzo: I had a surprise #blockchain question when presenting at Duke. Thanks to @_angrbrd I had the answer in my backpocket!! #wo…
+------------------------
+Created on: Tue Nov 14 01:19:36 +0000 2017
+Tweet content: @GinnyGhezzo Awesome! What was the question?
+------------------------
+Created on: Wed Nov 08 06:42:56 +0000 2017
+Tweet content: If you attended the All Things Open 2017 Boxcar Social, please read this to help someone in our community who was b… https://t.co/3XRiimzxrU
+------------------------
+Created on: Wed Nov 01 03:26:57 +0000 2017
+Tweet content: RT @BCBSNC: #Employees across the company worked together w/ #nonprofits to help solve a “challenge question” for each of them. #LifeatBlue…
+------------------------
+Created on: Thu Oct 26 16:15:10 +0000 2017
+Tweet content: RT @BCBSNC: Happy #NationalPumpkinDay! Blue Cross NCers paint pumpkins pink for #breastcancer awareness. #LifeAtBlueCrossNC https://t.co/BH…
+------------------------
+Created on: Thu Oct 26 05:32:34 +0000 2017
+Tweet content: What’s in your node_modules? Interesting read! https://t.co/BfmfAJuQIy
+------------------------
+Created on: Wed Oct 25 00:25:38 +0000 2017
+Tweet content: It was such a treat to have a featured speaker session at this conference. I am truly grateful. Thank you… https://t.co/A0ShDGoZV7
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Jan 14 01:08:25 +0000 2018
+Tweet content: Just setting up my Twitter. #myfirstTweet
+------------------------
+
+User Command: node liri.js spotify-this-song believe 
+
+User Command: node liri.js spotify-this-song believe 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js movie-this alien 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this alien 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Alien
+Year Released: 22 Jun 1979
+IMBD Rating: 8.5
+Country Produced: UK, USA
+Language: English
+Plot: A commercial crew aboard the deep space towing vessel, Nostromo is on its way home when they pick up an SOS warning from a distant moon. What they don't know is that the SOS warning is not like any other ordinary warning call. Picking up the signal, the crew realizes that they are not alone on the spaceship when an alien stowaway is on the cargo ship.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/alien/
+
+User Command: node liri.js movie-this alien 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Alien
+Year Released: 22 Jun 1979
+IMBD Rating: 8.5
+Rotten Tomatoes Rating: N/A
+Country Produced: UK, USA
+Language: English
+Plot: A commercial crew aboard the deep space towing vessel, Nostromo is on its way home when they pick up an SOS warning from a distant moon. What they don't know is that the SOS warning is not like any other ordinary warning call. Picking up the signal, the crew realizes that they are not alone on the spaceship when an alien stowaway is on the cargo ship.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+User Command: node liri.js spotify-this-song believe 
+
+User Command: node liri.js spotify-this-song believe 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Believe
+Artist: Eminem
+Album: Revival
+Preview Here: null
+
+User Command: node liri.js spotify-this-song believe 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Eminem
+Song Name: Believe
+Preview Here: null
+Album: Revival
+
+User Command: node liri.js spotify-this-song mandy 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Mandy Moore
+Song Name: When Will My Life Begin - From "Tangled"/Soundtrack Version
+Preview Here: null
+Album: Tangled
+
+User Command: node liri.js spotify-this-song train to georgia 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Gladys Knight & The Pips
+Song Name: Midnight Train to Georgia
+Preview Here: https://p.scdn.co/mp3-preview/d00b33563239b4ad3229f84b2856a753790bdefe?cid=7b06564488aa40e2a77382be0b2f275b
+Album: Beautiful Ballads
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Ace of Base
+Song Name: The Sign
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7b06564488aa40e2a77382be0b2f275b
+Album: The Sign (US Album) [Remastered]
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7b06564488aa40e2a77382be0b2f275b
+Album: The Hits--Chapter One
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Jan 14 01:08:25 +0000 2018
+Tweet content: Just setting up my Twitter. #myfirstTweet
+------------------------
+
+User Command: node liri.js movie-this elephant man 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Terrible Elephant Man Revealed
+Year Released: 11 Dec 2001
+IMBD Rating: 5.4
+Rotten Tomatoes Rating: N/A
+Country Produced: USA
+Language: English
+Plot: N/A
+Actors: Jonathan Sanger, Mel Brooks, John Hurt, Freddie Francis
+
+User Command: node liri.js spotify-this-song greatest love 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: LANCO
+Song Name: Greatest Love Story
+Preview Here: https://p.scdn.co/mp3-preview/0be63634aed195b2463a8faab7b032963321e416?cid=7b06564488aa40e2a77382be0b2f275b
+Album: LANCO - EP
+
+User Command: node liri.js spotify-this-song man in the mirror 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Michael Jackson
+Song Name: Man in the Mirror - 2012 Remaster
+Preview Here: https://p.scdn.co/mp3-preview/9b6d9730b531defe7f54062497657293e67690fe?cid=7b06564488aa40e2a77382be0b2f275b
+Album: Bad 25th Anniversary
+
+User Command: node liri.js spotify-this-song man in the mirror 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Michael Jackson
+Song Name: Man in the Mirror - 2012 Remaster
+Preview Here: https://p.scdn.co/mp3-preview/9b6d9730b531defe7f54062497657293e67690fe?cid=7b06564488aa40e2a77382be0b2f275b
+Album: Bad 25th Anniversary
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Jan 14 01:08:25 +0000 2018
+Tweet content: Just setting up my Twitter. #myfirstTweet
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Jan 14 01:08:25 +0000 2018
+Tweet content: Just setting up my Twitter. #myfirstTweet
+------------------------
+
+User Command: node liri.js movie-this elephant man 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this elephant man 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this elephant man 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Terrible Elephant Man Revealed
+Year Released: 11 Dec 2001
+IMBD Rating: 5.4
+Rotten Tomatoes Rating: N/A
+Country Produced: USA
+Language: English
+Plot: N/A
+Actors: Jonathan Sanger, Mel Brooks, John Hurt, Freddie Francis
+
+User Command: node liri.js movie-this elephant man 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Terrible Elephant Man Revealed
+Year Released: 11 Dec 2001
+IMBD Rating: 5.4
+Rotten Tomatoes Rating: N/A
+Country Produced: USA
+Language: English
+Plot: N/A
+Actors: Jonathan Sanger, Mel Brooks, John Hurt, Freddie Francis
+
+User Command: node liri.js movie-this elephant man 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Terrible Elephant Man Revealed
+Year Released: 11 Dec 2001
+IMBD Rating: 5.4
+Rotten Tomatoes Rating: N/A
+Country Produced: USA
+Language: English
+Plot: N/A
+Actors: Jonathan Sanger, Mel Brooks, John Hurt, Freddie Francis
+
+User Command: node liri.js movie-this elephant man 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Terrible Elephant Man Revealed
+Year Released: 11 Dec 2001
+IMBD Rating: 5.4
+Rotten Tomatoes Rating: N/A
+Country Produced: USA
+Language: English
+Plot: N/A
+Actors: Jonathan Sanger, Mel Brooks, John Hurt, Freddie Francis
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Jan 14 01:08:25 +0000 2018
+Tweet content: Just setting up my Twitter. #myfirstTweet
+------------------------
+
+User Command: node liri.js spotify-this-song man in the mirror 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Michael Jackson
+Song Name: Man in the Mirror - 2012 Remaster
+Preview Here: https://p.scdn.co/mp3-preview/9b6d9730b531defe7f54062497657293e67690fe?cid=7b06564488aa40e2a77382be0b2f275b
+Album: Bad 25th Anniversary
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Ace of Base
+Song Name: The Sign
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7b06564488aa40e2a77382be0b2f275b
+Album: The Sign (US Album) [Remastered]
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7b06564488aa40e2a77382be0b2f275b
+Album: The Hits--Chapter One
+
+User Command: node liri.js movie-this alien vs predator 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: AVP: Alien vs. Predator
+Year Released: 13 Aug 2004
+IMBD Rating: 5.6
+Rotten Tomatoes Rating: N/A
+Country Produced: USA, UK, Czech Republic, Canada, Germany
+Language: English, Italian
+Plot: When a private satellite encounters an unidentified source of heat in Antarctica and it is found to be a pyramid buried deep underground , a search team comprising of top-of-the-line archaeologists and engineers is sent to Antarctica to find out more . Once there , the team comes across signs which indicate that the place is inhabited by an unknown alien species . It is not long before the aliens begin to hunt the team members . At the same time , a trio of coming-of-age Predators have arrived to collect the skulls of the aliens as trophies , and the humans are caught between a deadly battle between the two warring species .
+Actors: Sanaa Lathan, Raoul Bova, Lance Henriksen, Ewen Bremner
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7b06564488aa40e2a77382be0b2f275b
+Album: The Hits--Chapter One
+
